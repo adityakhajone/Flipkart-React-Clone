@@ -749,6 +749,56 @@
         "delivery_type": "₹99",
         "del": 99
       }
+    },
+    {
+      "id": "31",
+      "image_product": "./images/31.png",
+      "product_name": "GOVO GOSURROUND 200 |2000 mAh Battery 16 W Bluetooth Speaker  (Platinum Black, 2.0 Channel)",
+      "rating": {
+        "rating_count": "4.3",
+        "rating_numbers": "(8,566)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "1,199",
+        "curr_price": 1199,
+        "org_price": 3999,
+        "original_price": "3,999",
+        "discount": "70"
+      },
+      "delivery_charge": "Free Delivery",
+      "offers": "Festive Offer Special",
+      "size": "Size: 25cm",
+      "delivery_by": {
+        "date": "Tue Sept 19",
+        "delivery_type": "Free",
+        "del": 0
+      }
+    },
+    {
+      "id": "32",
+      "image_product": "./images/32.png",
+      "product_name": "iFFALCON by TCL U64 126 cm (50 inch) Ultra HD (4K) LED Smart Google TV with 24W Dolby Audio, HDR10  (iFF50U64)",
+      "rating": {
+        "rating_count": "4.3",
+        "rating_numbers": "(62,140)",
+        "assured": "./images/Fassured.png"
+      },
+      "price": {
+        "current_price": "27,499",
+        "curr_price": 27499,
+        "org_price": 62999,
+        "original_price": "62,999",
+        "discount": "56"
+      },
+      "delivery_charge": "20₹ Delivery Charge",
+      "offers": "Lowest price since launch",
+      "size": "Screen Size: 50inch",
+      "delivery_by": {
+        "date": "Tue Sept 31",
+        "delivery_type": "₹20",
+        "del": 20
+      }
     }
   ]
 }
